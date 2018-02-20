@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WizardFlow_Example' do
+  pod 'WizardFlow', :path => '../'
+
+  target 'WizardFlow_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

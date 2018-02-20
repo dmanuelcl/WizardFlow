@@ -1,0 +1,6 @@
+framework module Pods_WizardFlow_Tests {
+  umbrella header "Pods-WizardFlow_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

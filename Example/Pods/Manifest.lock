@@ -1,0 +1,16 @@
+PODS:
+  - WizardFlow (0.2.0)
+
+DEPENDENCIES:
+  - WizardFlow (from `../`)
+
+EXTERNAL SOURCES:
+  WizardFlow:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WizardFlow: 60b2f5eee63bcdcbfc183798065f0c519ed7e683
+
+PODFILE CHECKSUM: b823884d71cf8f9335d31e73f3d6f50f6aef4822
+
+COCOAPODS: 1.4.0.rc.1
