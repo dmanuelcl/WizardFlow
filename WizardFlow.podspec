@@ -1,11 +1,11 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WizardFlow'
-  s.version          = '0.2.0'
-  s.summary          = 'A simple way to localize iOS apps'
+  s.version          = '0.1.0'
+  s.summary          = 'Allow create forms or ui sequences in a wizard fashion'
 
   s.description      = <<-DESC
-A simple way to localize iOS apps. Allow localize UI on storyboard and source code
+  Allow create forms or ui sequences in a wizard fashion
                        DESC
 
   s.homepage         = 'https://github.com/dmanuelcl/WizardFlow'
