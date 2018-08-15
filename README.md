@@ -5,7 +5,11 @@
 
 ## Example
 
+#### **You can pass data betwen step using the delegate methods**
+
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+<img src="Screenshots/WizardFlow.gif" width="320"></img>
 
 ## Requirements
 
